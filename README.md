@@ -45,7 +45,9 @@ __canvas__: the canvas
 
 __ctx__: the 2d context
 
+__w__: current canvas width
 
+__h__: current canvas height
 
 
 
